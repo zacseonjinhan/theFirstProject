@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hshs.webProject.BoardDao.BoardRepository">
+
+<!-- 	<resultMap id ="rsBoardVo" type ="com.hshs.webProject.BoardVO.BoardVO"> -->
+<!-- 		<result property="free_number" column="FREE_NUM"/> -->
+<!-- 		<result property="free_title" column="TITLE"/> -->
+<!-- 		<result property="free_writer" column="WRITER"/> -->
+<!-- 		<result property="free_pw" column="FREE_PW"/> -->
+<!-- 		<result property="free_regdate" column="FREE_REGDATE"/> -->
+<!-- 		<result property="free_readcount" column="FREE_READCOUNT"/> -->
+<!-- 		<result property="free_content" column="FREE_CONTENT"/> -->
+<!-- 	</resultMap> -->
+
+</mapper>
